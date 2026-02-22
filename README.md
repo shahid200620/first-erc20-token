@@ -85,18 +85,31 @@ Screenshots of compilation, deployment, transfers, and events are included in th
 
 first-erc20-token/
 │
+
 ├── contracts/
+
 │ └── MyToken.sol
+
 │
+
 ├── screenshots/
+
 │ ├── compilation.png
+
 │ ├── deployment.png
+
 │ ├── token-info.png
+
 │ ├── transfer-test.png
+
 │ ├── approval.png
+
 │ ├── transferFrom-test.png
+
 │ └── events.png
+
 │
+
 └── README.md
 
 
@@ -118,3 +131,4 @@ I also understood the importance of event emission, validation checks, and stand
 
 ## Author
 Shahid Mohammed
+
